@@ -2,7 +2,7 @@
 	<List>
 		<Text Name="StarDustLake">
 			<DisplayName>Lac étoilé</DisplayName>
-			<Desc>"Water from all directions converges here through canals and then flow out toward faraway lands, connecting the wide open world. Even the Milky Way converges here at night. " From 'Notes of the Six Laws'</Desc>
+			<Desc>"L’eau de toutes les directions converge ici à travers les canaux and then flow out toward faraway lands, connecting the wide open world. Even the Milky Way converges here at night. " From 'Notes of the Six Laws'</Desc>
 			<Effect>Policy: Learn form Nature unlocked.</Effect>
 		</Text>
 		<Text Name="XiuXianCollege">
